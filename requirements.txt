@@ -1,0 +1,4 @@
+moto[all]
+pynamodb_mate
+jupyterlab
+rich
