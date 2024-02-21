@@ -1,7 +1,7 @@
 Welcome to "Dynamodb Modeler" Project
 ==============================================================================
 
-.. image:: https://camo.githubusercontent.com/cde29e7403a5d0582c1c90f732889be626d777e582529c6da173aab7865e4671/68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f363830303431312f3231323938333033342d62306438663034382d323238652d346265362d623539312d3165333961373064363465632e706e67
+.. image:: https://user-images.githubusercontent.com/6800411/212983034-b0d8f048-228e-4be6-b591-1e39a70d64ec.png
 
 This project is a DynamoDB modeling tool. It is a playground for developer to design a DynamoDB data model for business use case and implements business logic, user interaction and query patterns.
 
