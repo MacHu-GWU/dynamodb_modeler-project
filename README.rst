@@ -6,3 +6,19 @@ Welcome to "Dynamodb Modeler" Project
 This project is a DynamoDB modeling tool. It is a playground for developer to design a DynamoDB data model for business use case and implements business logic, user interaction and query patterns.
 
 Please read this 📔 `Example.ipynb <./Example.ipynb>`_ Jupyter Notebook to learn how. And you can duplicate the  `Example.ipynb <./Example.ipynb>`_ to start your own project.
+
+.. code-block:: console
+
+    virtualenv -p python3.10 .venv
+
+.. code-block:: console
+
+    source .venv/bin/activate
+
+.. code-block:: console
+
+    pip install -r requirements.txt
+
+.. code-block:: console
+
+    .venv/bin/jupyter-lab

@@ -1,4 +1,4 @@
-moto[all]
-pynamodb_mate
+pynamodb_mate>=5.3.4,<6.0.0
+moto>=4.2.12,<5.0.0
 jupyterlab
 rich
