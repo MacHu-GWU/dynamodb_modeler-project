@@ -147,8 +147,14 @@ class LookupIndex(pm.GlobalSecondaryIndex):
 class Entity(pm.Model):
     """
     Main entity item. Base class for all entity items and relationship items.
+    In DynamoDB, we put all kinds of entities into the same table, and use
+    the type attribute to distinguish them.
+
+    It has to have a :class:`BaseLookupIndex` as the lookup index. You can declare
+    more index as needed.
 
     :param pk: partition key can only have alpha letter and hyphen.
+        You can NOT use underscore in the partition key.
         For entity item, it is the unique id.
     :param sk: sort key can only have alpha letter and hyphen.
         For entity item, it is always "__root__". For relationship item,
