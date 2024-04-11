@@ -10,9 +10,9 @@ The tool empowers developers to explore various data modeling techniques, test t
 
 How to Use
 ------------------------------------------------------------------------------
-If you don't know common strategy to declare one-to-many and many-to-many relationship, please read this `Reinvent YouTube In DynamoDB <./Reinvent-YouTube-In-DynamoDB.ipynb>`_ notebook to Learn.
+If you don't know common strategy to declare one-to-many and many-to-many relationship, please read this `Reinvent YouTube In DynamoDB <./Reinvent-YouTube-In-DynamoDB.ipynb>`_ notebook to Learn. You can also read the `One-To-Many-Relationship <./01-One-To-Many-Relationship/index.rst>`_ for more detailed information.
 
-If you want to desgin a new data model for your project, you can duplicate `Reinvent YouTube In DynamoDB <./Reinvent-YouTube-In-DynamoDB.ipynb>`_ notebook to start your own project.
+If you want to design a new data model for your project, you can duplicate `Reinvent YouTube In DynamoDB <./Reinvent-YouTube-In-DynamoDB.ipynb>`_ notebook to start your own project.
 
 
 Install Dependencies
