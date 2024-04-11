@@ -15,6 +15,12 @@ If you don't know common strategy to declare one-to-many and many-to-many relati
 If you want to design a new data model for your project, you can duplicate `Reinvent YouTube In DynamoDB <./Reinvent-YouTube-In-DynamoDB.ipynb>`_ notebook to start your own project.
 
 
+More DynamoDB Modeling Examples
+------------------------------------------------------------------------------
+- `Reinvent-AWS-S3-in-DynamoDB <./Reinvent-AWS-S3-in-DynamoDB.ipynb>`_
+- `Reinvent-Versioned-Document-System-in-DynamoDB <./reinvent_versioned_document_system_in_dynamodb.py>`_
+
+
 Install Dependencies
 ------------------------------------------------------------------------------
 .. code-block:: console
